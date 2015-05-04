@@ -314,7 +314,7 @@ $("#adom .classa"); // 返回id为adom的DOM所包含的所有子节点中，第
 
 ### 3.3 参考资料
 
-- [DOM](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview)
+- [DOM](https:// developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview)
 - [MDN QuerySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - [MDN QuerySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 

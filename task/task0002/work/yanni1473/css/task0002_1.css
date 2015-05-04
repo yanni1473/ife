@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.ipt{
+	width: 400px;
+	height: 50px;
+}
+span{
+	display: none;
+}
+.btn{
+	width: 70px;
+	height: 50px;
+	background: pink;
+}
+.tip{
+	display: block;
+	color: red;
+}

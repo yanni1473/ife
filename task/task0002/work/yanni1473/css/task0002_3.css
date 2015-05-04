@@ -1,0 +1,57 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+	#container{
+		width:634px;
+		height: 465px;
+		background: green;
+		margin: 50px auto;
+		position: relative;
+	}
+	#tab li{
+		float: left;
+		width: 25px;
+		height: 25px;
+		margin-right: 3px;
+		background: black;
+		color: white;
+		text-align: center;
+		line-height: 25px;
+		cursor:pointer;
+	}
+	#tab{
+		list-style-type: none;
+		width: 120px;
+		height: 25px;
+		position: absolute;
+		left:510px; 
+		top:435px;	
+	}
+	#tab .active{
+		background: orange;
+	}
+	#pane .active{
+		display: block;
+	}
+	#pane img{
+		display: none;
+	}
+	#arrow{
+		width: 80px;
+		height: 25px;
+		position: absolute;
+		top:435px;
+		left: 25px;
+	}
+	#arrow span{
+		float: left;
+		width: 25px;
+		height: 25px;
+		margin-right: 3px;
+		background: orange;
+		color: white;
+		text-align: center;
+		line-height: 25px;
+		cursor:pointer;
+	}

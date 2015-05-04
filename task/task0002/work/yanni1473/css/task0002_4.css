@@ -1,0 +1,37 @@
+*{
+		padding: 0px;
+		margin: 0px;
+	}
+		#search{
+			width: 340px;
+			height:30px;
+			border: 1px solid #ccc;
+			margin-top:100px;
+			position: absolute;
+			left: 50%;
+			margin-left: -170px;
+		}
+		#result{
+			background:white;
+			/*height: 100px;*/
+			width: 342px;
+			border:1px solid black;
+			margin-top:130px;
+			position: absolute;
+			display: none;
+			left:50%;
+			margin-left: -170px;
+		}
+		#result li{
+			width: 342px;
+			height: 30px;
+			background: white;
+			list-style-type: none;
+			
+			text-align: 5px;
+				
+		}
+		#result li:hover{
+			background: yellow;
+			cursor: pointer;
+		}
